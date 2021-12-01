@@ -1,0 +1,7 @@
+adjective=input("enter an adjective:")
+noun=input("enter a nounw:")
+plural=input("enter a plural word:")
+female=input("enter a feminine name:")
+book=input("enter a book:")
+cloth=input("enter a clothing article:")
+print ("there are many " + adjective + " ways to choose a " + noun + " to read. First,you could ask for recommendations from your friends and "+ plural+".Just don't ask "+female+" .she only reads "+book+" books with" +cloth+" ripping pictures on  the cover.")
